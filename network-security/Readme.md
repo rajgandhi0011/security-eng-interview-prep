@@ -1,4 +1,4 @@
-# Network Security Bookmarks
+# Network Security
 
 - [What Is DNS? | How DNS Works | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Sslstrip tutorial for penetration testers](https://www.computerweekly.com/tip/Sslstrip-tutorial-for-penetration-testers)
