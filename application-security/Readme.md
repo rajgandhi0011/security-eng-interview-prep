@@ -6,7 +6,7 @@
 - [OWASP Top Ten Web Application Security Risks | OWASP](https://owasp.org/www-project-top-ten/)
 - [Session management and security in SPA | by Priyamvada Pant | Medium](https://medium.com/@pantpriyamvada/session-management-and-security-in-spa-d96f4a9e817e)
 - [What is Cross Site Scripting (XSS) ? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-cross-site-scripting-xss/)
-- [DOM Based XSS Software Attack | OWASP Foundation](https://owasp.org/www-community/attacks/DOM_Based_XSS#:~:text=DOM%20Based%20XSS%20(or%20as,in%20an%20%E2%80%9Cunexpected%E2%80%9D%20manner.)
+- [DOM Based XSS Software Attack | OWASP Foundation](https://owasp.org/www-community/attacks/DOM_Based_XSS)
 - [What is the difference between ordinary XSS and Dom XSS vulnerabilities? - Information Security Stack Exchange](https://security.stackexchange.com/questions/51994/what-is-the-difference-between-ordinary-xss-and-dom-xss-vulnerabilities)
 - [OWASP Top 10: Real-World Examples (Part 1) | by George Mathias | Medium](https://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-1-a540c4ea2df5)
 - [OWASP Top 10: Real-World Examples (Part 2) | by George Mathias | Mediumhttps://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-2-3cdb3bebc976]()
